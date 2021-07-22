@@ -12,3 +12,5 @@ s.t. SV=0,
 This code employ the 'coneprog' function which has been provided in MATLAB(R2020b) or upper.
 
 For running the program, please set your file name, your sheet and your data range for matrix S on lines 5-7. Please set your data range for lower bound vector l_1 on the line 16. Please set your data range for lower bound vector u_1 on the line 23.
+
+Input files must be in .xlsx(or .xls) format.
